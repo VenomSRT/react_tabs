@@ -1,0 +1,1 @@
+{"version":3,"sources":["Tabs.css"],"names":[],"mappings":"AAAA,KACE,gBACF,CAEA,QACE,kBAAmB,CACnB,qBACF,CAEA,WACE,YACF","file":"main.6278a768.chunk.css","sourcesContent":[".tab {\n  padding: 5px 10px;\n}\n\n.active {\n  border-bottom: none;\n  background-color: #fff;\n}\n\n.tab:focus {\n  outline: none;\n}\n"]}
